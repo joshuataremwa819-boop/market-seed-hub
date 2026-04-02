@@ -9,6 +9,7 @@ import PosterBottomSection from "@/components/PosterBottomSection";
 const Index = () => {
   const [title, setTitle] = useState("SMART MARKET CONNECT");
   const [subtitle, setSubtitle] = useState("Connecting Farmers to Buyers Digitally");
+  const [qrImage, setQrImage] = useState<string | null>(null);
 
   const [problems, setProblems] = useState([
     "Farmers lack direct market access",
