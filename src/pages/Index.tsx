@@ -153,7 +153,7 @@ const Index = () => {
 
           {/* Bottom Section */}
           <div className="px-6 pb-6">
-            <PosterBottomSection metrics={metrics} onMetricsChange={setMetrics} />
+            <PosterBottomSection metrics={metrics} onMetricsChange={setMetrics} qrImage={qrImage} onQrImageChange={setQrImage} />
           </div>
 
           {/* Footer */}
