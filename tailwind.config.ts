@@ -47,6 +47,16 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        poster: {
+          green: "hsl(var(--poster-green))",
+          "green-dark": "hsl(var(--poster-green-dark))",
+          "green-light": "hsl(var(--poster-green-light))",
+          orange: "hsl(var(--poster-orange))",
+          "orange-light": "hsl(var(--poster-orange-light))",
+          red: "hsl(var(--poster-red))",
+          blue: "hsl(var(--poster-blue))",
+          gray: "hsl(var(--poster-gray))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
