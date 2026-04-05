@@ -24,7 +24,7 @@ const Footer = () => (
         <h3 className="font-semibold mb-3">Contact</h3>
         <ul className="space-y-2 text-sm opacity-80">
           <li>Email: info@smartmarketconnect.com</li>
-          <li>Phone: +255 700 000 000</li>
+          <li>Phone: 0767 248 977</li>
           <li>Location: Dar es Salaam, Tanzania</li>
         </ul>
       </div>
