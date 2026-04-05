@@ -30,7 +30,7 @@ const Contact = () => {
             {[
               { icon: Mail, label: "Email", value: "info@smartmarketconnect.com" },
               { icon: Phone, label: "Phone", value: "0767 448 977" },
-              { icon: MapPin, label: "Location", value: "Dar es Salaam, Tanzania" },
+              { icon: MapPin, label: "Location", value: "Rukungiri, Kashenyi, Uganda" },
             ].map((c) => (
               <div key={c.label} className="flex items-start gap-4">
                 <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0">
