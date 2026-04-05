@@ -29,7 +29,7 @@ const Contact = () => {
             <h2 className="text-xl font-semibold mb-4">Contact Information</h2>
             {[
               { icon: Mail, label: "Email", value: "info@smartmarketconnect.com" },
-              { icon: Phone, label: "Phone", value: "+255 700 000 000" },
+              { icon: Phone, label: "Phone", value: "0767 448 977" },
               { icon: MapPin, label: "Location", value: "Dar es Salaam, Tanzania" },
             ].map((c) => (
               <div key={c.label} className="flex items-start gap-4">
