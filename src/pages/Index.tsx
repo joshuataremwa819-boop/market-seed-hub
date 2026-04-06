@@ -69,10 +69,6 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background py-8 px-4">
       <div className="max-w-5xl mx-auto">
-        {/* Edit hint */}
-        <p className="text-center text-sm text-muted-foreground mb-4">
-          ✏️ Click any text to edit &bull; Hover items for delete buttons &bull; Use "+ Add" to add new items
-        </p>
 
         {/* Poster container */}
         <div className="bg-background border border-border rounded-2xl shadow-lg overflow-hidden">
