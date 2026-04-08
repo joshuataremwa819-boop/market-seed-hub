@@ -156,7 +156,7 @@ const Index = () => {
 
           {/* Footer */}
           <p className="text-center text-xs text-muted-foreground pb-4">
-            Smart Market Connect — University Project 2026
+            Smart Market Connect © 2026
           </p>
         </div>
       </div>

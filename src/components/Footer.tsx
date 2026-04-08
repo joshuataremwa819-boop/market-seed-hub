@@ -30,7 +30,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="border-t border-primary-foreground/20 text-center text-xs py-4 opacity-60">
-      © 2026 Smart Market Connect — University Project
+      © 2026 Smart Market Connect
     </div>
   </footer>
 );

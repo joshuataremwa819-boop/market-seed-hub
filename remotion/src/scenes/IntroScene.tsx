@@ -49,7 +49,7 @@ export const IntroScene: React.FC = () => {
           fontSize: 28, color: "rgba(255,255,255,0.7)", letterSpacing: 6,
           marginBottom: 20, opacity: tagOpacity, fontWeight: 400,
         }}>
-          UNIVERSITY PROJECT 2026
+          DIGITAL AGRICULTURAL MARKETPLACE
         </div>
 
         <h1 style={{

@@ -42,7 +42,7 @@ export const OutroScene: React.FC = () => {
           fontSize: 20, color: "rgba(255,255,255,0.5)", fontWeight: 400,
           opacity: tagOpacity, marginTop: 10,
         }}>
-          market-seed-hub.lovable.app
+          smartmarketconnect.com
         </p>
       </div>
     </AbsoluteFill>
