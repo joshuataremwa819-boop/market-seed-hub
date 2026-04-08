@@ -1,5 +1,6 @@
 import { useState } from "react";
 import PosterHeader from "@/components/PosterHeader";
+import defaultQrCode from "@/assets/qr-code.png";
 import PosterSection from "@/components/PosterSection";
 import EditableBulletList from "@/components/EditableBulletList";
 import FeatureCards from "@/components/FeatureCards";
@@ -9,7 +10,7 @@ import PosterBottomSection from "@/components/PosterBottomSection";
 const Index = () => {
   const [title, setTitle] = useState("SMART MARKET CONNECT");
   const [subtitle, setSubtitle] = useState("Connecting Farmers to Buyers Digitally");
-  const [qrImage, setQrImage] = useState<string | null>(null);
+  const [qrImage, setQrImage] = useState<string | null>(defaultQrCode);
 
   const [problems, setProblems] = useState([
     "Farmers lack direct market access",
