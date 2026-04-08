@@ -24,7 +24,7 @@ const About = () => (
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">About Smart Market Connect</h1>
           <p className="text-lg opacity-90 max-w-2xl mx-auto">
-            A university project tackling real-world agricultural trade challenges through ICT entrepreneurship and digital marketing.
+            Tackling real-world agricultural trade challenges through ICT entrepreneurship and digital marketing.
           </p>
         </div>
       </section>
